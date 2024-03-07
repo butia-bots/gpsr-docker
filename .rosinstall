@@ -1,0 +1,57 @@
+- git:
+    local-name: src/butia_behavior
+    uri: git@github.com:butia-bots/butia_behavior.git
+- git:
+    local-name: src/butia_description
+    uri: https://github.com/butia-bots/butia_description.git
+- git:
+    local-name: src/butia_face
+    uri: https://github.com/butia-bots/butia_face.git
+- git:
+    local-name: src/butia_launchfiles
+    uri: https://github.com/butia-bots/butia_launchfiles.git
+- git:
+    local-name: src/butia_navigation_system
+    uri: https://github.com/butia-bots/butia_navigation_system
+- git:
+    local-name: src/butia_quiz
+    uri: https://github.com/butia-bots/butia_quiz.git
+- git:
+    local-name: src/butia_simulation
+    uri: https://github.com/butia-bots/butia_simulation
+- git:
+    local-name: src/butia_speech
+    uri: https://github.com/butia-bots/butia_speech.git
+- git:
+    local-name: src/butia_vision
+    uri: https://github.com/butia-bots/butia_vision.git
+- git:
+    local-name: src/butia_vision_msgs
+    uri: https://github.com/butia-bots/butia_vision_msgs.git
+- git:
+    local-name: src/butia_world
+    uri: https://github.com/butia-bots/butia_world.git
+- git:
+    local-name: src/butia_world_msgs
+    uri: https://github.com/butia-bots/butia_world_msgs.git
+- git:
+    local-name: src/interbotix_ros_core
+    uri: https://github.com/butia-bots/interbotix_ros_core
+- git:
+    local-name: src/interbotix_ros_manipulators
+    uri: https://github.com/butia-bots/interbotix_ros_manipulators.git
+- git:
+    local-name: src/interbotix_ros_toolboxes
+    uri: https://github.com/butia-bots/interbotix_ros_toolboxes
+- git:
+    local-name: src/ros_numpy
+    uri: https://github.com/eric-wieser/ros_numpy
+- git:
+    local-name: src/taskweaver_ros
+    uri: https://github.com/butia-bots/taskweaver_ros
+- git:
+    local-name: src/video_stream_opencv
+    uri: https://github.com/ros-drivers/video_stream_opencv.git
+- git:
+    local-name: src/voxposer_ros
+    uri: https://github.com/butia-bots/voxposer_ros.git
